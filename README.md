@@ -18,7 +18,7 @@ GMAIL_PASS=passwordYouUseForThisEmail
 - In your browser go to http://localhost:5000/
 
 ## Things to note
-- This project does not come with a stylesheet
+- This project does not come with a stylesheet so you will need to make your own
 
 ## Useful resources
 - https://codeburst.io/sending-an-email-using-nodemailer-gmail-7cfa0712a799
