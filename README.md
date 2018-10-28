@@ -8,7 +8,7 @@ This is a simple server that servs up a basic contact form. Upon the submission 
 - Create a gmail account and make sure you are logged in.
 - Go to https://myaccount.google.com/lesssecureapps and click: Allow less secure apps: ON (This will disable some of google security settings for your account)
 - Go to https://accounts.google.com/b/0/displayunlockcaptcha and click continue (This will disable some of google security settings for your account)
-- In the root of this project create a file and name it .env
+- In the root of this project create a file and name it .env (In terminal type in touch .env)
 - Open the .env file in your text editor and create the following two lines (the first one is the email address of the gmail account, the second one is the password):
 ```
 GMAIL_USER=ruslan@gmail.com
